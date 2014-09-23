@@ -5,7 +5,7 @@ Feel Free to commit, Appreciated.
 
 ## Watch Live demo at
 
-  - [Check Out Demo](http://peer-chat.herokuapp.com/).
+  - [Check Out Demo](http://peerchat.uni.me/).
   - Open Browser,
   - Enter Your name,
   - Enter Room Name,
