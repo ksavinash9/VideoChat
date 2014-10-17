@@ -3,15 +3,7 @@
 PeerChat is a Simple Project for Peer to Peer Video Chat with Node.js and Socket.io.
 Feel Free to commit, Appreciated.
 
-## If you want to run on your server
 
-  - Clone to your machine
-  - run npm install from your CLI
-  - Add Turn Server API Key to <script> tag of index.html
-  - If you don't have API Key you can get it for free on TurnServer.com
-  - run node server.js command
-  - Open localhost:3000
-  - And You Go
 
 ## Watch Live demo at
 
@@ -25,8 +17,7 @@ Feel Free to commit, Appreciated.
   - And You Go....
 
   
-  
-
+## For Developers
   
 
 ## Authors
