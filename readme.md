@@ -20,7 +20,7 @@ Feel Free to commit, Appreciated.
 
   - Clone to your machine
   - run npm install from your CLI
-  - Add Turn Server API Key to <script> tag of index.html
+  - Add Turn Server API Key to script tag of index.html
   - If you don't have API Key you can get it for free on TurnServer.com
   - run node server.js command
   - Open localhost:3000
