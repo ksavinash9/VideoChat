@@ -14,15 +14,7 @@ Feel Free to commit, Appreciated.
   - Enter Same room name which entered before
   - And You Go....
 
-  ## If you want to run on your server
-
-  - Clone to your machine
-  - run npm install from your CLI
-  - Add Turn Server API Key to <script> tag of index.html
-  - If you don't have API Key you can get it for free on TurnServer.com
-  - run node server.js command
-  - Open localhost:3000
-  - And You Go
+  
   
 
   
