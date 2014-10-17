@@ -13,8 +13,8 @@ Feel Free to commit, Appreciated.
   - Enter Name
   - Enter Same room name which entered before
   - And You Go....
-  
-## If you want to run on your server
+
+  ## If you want to run on your server
 
   - Clone to your machine
   - run npm install from your CLI
@@ -23,6 +23,8 @@ Feel Free to commit, Appreciated.
   - run node server.js command
   - Open localhost:3000
   - And You Go
+  
+
   
 
 ## Authors
