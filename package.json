@@ -14,8 +14,8 @@
   "author": "https://github.com/Hironate",
   "license": "MIT",
   "dependencies": {
-    "node-static": "~0.7.1",
-    "socket.io": "~0.9.16",
-    "express": "~3.4.0"
+    "node-static": "*",
+    "socket.io": "*",
+    "express": "*"
   }
 }
