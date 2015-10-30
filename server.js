@@ -51,8 +51,7 @@ io.sockets.on('connection', function(socket) {
 
 
 
-    kya bakchodi hai
-    
+    YOLO
 
 
 
