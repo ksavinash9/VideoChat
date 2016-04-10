@@ -42,17 +42,3 @@ io.sockets.on('connection', function(socket) {
 
 
 
-/*
-
-
-    Aaata Chawal
-
-    Fuck You
-
-
-
-    YOLO
-
-
-
-*/
